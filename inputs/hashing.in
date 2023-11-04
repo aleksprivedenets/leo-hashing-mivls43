@@ -1,0 +1,4 @@
+// The program input for hashing/src/main.leo
+[hash]
+public value: i128 = 100i128;
+method: u8 = 5u8;
